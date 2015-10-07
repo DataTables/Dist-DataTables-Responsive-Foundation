@@ -1,0 +1,13 @@
+{
+    "css": [
+        "css/responsive.foundation.css",
+        "css/responsive.foundation.min.css"
+    ],
+    "js": [
+        "js/responsive.foundation.js",
+        "js/responsive.foundation.min.js"
+    ],
+    "src-repo": "http://github.com/DataTables/Responsive",
+    "last-sync": "2802e658bcfe9f0785c352ed4d742f6e9db9abdf",
+    "last-tag": "1.0.7"
+}
