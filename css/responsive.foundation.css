@@ -20,7 +20,7 @@ table.dataTable.dtr-inline.collapsed > tbody > tr > th:first-child:before {
   box-shadow: 0 0 3px #444;
   box-sizing: content-box;
   content: '+';
-  background-color: #008CBA;
+  background-color: #008cba;
 }
 table.dataTable.dtr-inline.collapsed > tbody > tr > td:first-child.dataTables_empty:before,
 table.dataTable.dtr-inline.collapsed > tbody > tr > th:first-child.dataTables_empty:before {
@@ -70,7 +70,7 @@ table.dataTable.dtr-column > tbody > tr > th.control:before {
   box-shadow: 0 0 3px #444;
   box-sizing: content-box;
   content: '+';
-  background-color: #008CBA;
+  background-color: #008cba;
 }
 table.dataTable.dtr-column > tbody > tr.parent td.control:before,
 table.dataTable.dtr-column > tbody > tr.parent th.control:before {
