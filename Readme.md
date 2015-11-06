@@ -19,7 +19,7 @@ npm install datatables.net-responsive-zf
 
 ```
 var $ = require( 'jquery' );
-require( 'datatables.net-responsive-zf' )( $ );
+require( 'datatables.net-responsive-zf' )( window, $ );
 ```
 
 ### bower
