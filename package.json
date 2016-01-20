@@ -1,6 +1,6 @@
 {
     "name": "datatables.net-responsive-zf",
-    "version": "2.0.0",
+    "version": "2.0.1",
     "description": "Responsive for DataTables with styling for [Zurb Foundation](http://foundation.zurb.com/)",
     "files": [
         "js/responsive.foundation.js",
