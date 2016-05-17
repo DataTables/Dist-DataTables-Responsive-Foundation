@@ -6,7 +6,8 @@
         "js/responsive.foundation.js",
         "css/responsive.foundation.css"
     ],
-    "main": "./js/responsive.foundation.js",
+    "main": "js/responsive.foundation.js",
+    "style": "css/responsive.foundation.css",
     "keywords": [
         "responsive",
         "DataTables",
