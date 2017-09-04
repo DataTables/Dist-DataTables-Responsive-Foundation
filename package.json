@@ -3,8 +3,8 @@
     "version": "2.1.1",
     "description": "Responsive for DataTables with styling for [Zurb Foundation](http://foundation.zurb.com/)",
     "files": [
-        "js/responsive.foundation.js",
-        "css/responsive.foundation.css"
+        "css/**/*.css",
+        "js/**/*.js"
     ],
     "main": "js/responsive.foundation.js",
     "style": "css/responsive.foundation.css",
