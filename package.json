@@ -1,6 +1,6 @@
 {
     "name": "datatables.net-responsive-zf",
-    "version": "2.2.0",
+    "version": "2.2.1",
     "description": "Responsive for DataTables with styling for [Zurb Foundation](http://foundation.zurb.com/)",
     "files": [
         "css/**/*.css",
@@ -25,7 +25,7 @@
     "dependencies": {
         "jquery": ">=1.7",
         "datatables.net-zf": "^1.10.15",
-        "datatables.net-responsive": "2.2.0"
+        "datatables.net-responsive": "2.2.1"
     },
     "repository": {
         "type": "git",
