@@ -1,6 +1,6 @@
-# Responsive for DataTables with styling for [Zurb Foundation](http://foundation.zurb.com/)
+# Responsive for DataTables with styling for [Foundation](https://get.foundation/)
 
-This package contains distribution files required to style [Responsive extension](https://datatables.net/extensions/responsive) for [DataTables](https://datatables.net/) with styling for [Zurb Foundation](http://foundation.zurb.com/).
+This package contains a built distribution of the [Responsive extension](https://datatables.net/extensions/Responsive) for [DataTables](https://datatables.net/) with styling for [Foundation](https://get.foundation/).
 
 In the modern world of responsive web design tables can often cause a particular problem for designers due to their row based layout. Responsive is an extension for DataTables that resolves that problem by optimising the table's layout for different screen sizes through the dynamic insertion and removal of columns from the table.
 
@@ -19,7 +19,7 @@ npm install datatables.net-responsive-zf
 
 ```
 var $ = require( 'jquery' );
-require( 'datatables.net-responsive-zf' )( window, $ );
+var dt = require( 'datatables.net-responsive-zf}' )( window, $ );
 ```
 
 ### bower
@@ -32,7 +32,7 @@ bower install --save datatables.net-responsive-zf
 
 ## Documentation
 
-Full documentation of the DataTables options, API and plug-in interface are available on the DOCS_LINK. The site also contains information on the wide variety of plug-ins that are available for DataTables, which can be used to enhance and customise your table even further.
+Full documentation and examples for Responsive can be found [on the website](https://datatables.net/extensions/responsive).
 
 
 ## Bug / Support
@@ -48,3 +48,4 @@ If you are thinking of contributing code to DataTables, first of all, thank you!
 ## License
 
 This software is released under the [MIT license](//datatables.net/license). You are free to use, modify and distribute this software, but all copyright information must remain.
+
