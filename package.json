@@ -4,7 +4,7 @@
     "main": "js/responsive.foundation.js",
     "style": "css/responsive.foundation.css",
     "types": "./types/responsive.foundation.d.ts",
-    "version": "2.2.7",
+    "version": "2.2.8",
     "files": [
         "css/**/*.css",
         "js/**/*.js"
@@ -19,9 +19,9 @@
         "sort"
     ],
     "dependencies": {
-        "datatables.net-responsive": ">=2.2.7",
-        "datatables.net-zf": ">=1.10.24",
-        "jquery": ">=1.7"
+        "jquery": ">=1.7",
+        "datatables.net-zf": "^1.10.15",
+        "datatables.net-responsive": "2.2.8"
     },
     "moduleType": [
         "globals",
