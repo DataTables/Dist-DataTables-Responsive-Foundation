@@ -19,8 +19,8 @@
         "sort"
     ],
     "dependencies": {
-        "datatables.net-responsive": ">=2.2.7",
-        "datatables.net-zf": ">=1.10.24",
+        "datatables.net-responsive": ">=2.2.9",
+        "datatables.net-zf": ">=1.10.26-dev",
         "jquery": ">=1.7"
     },
     "moduleType": [
