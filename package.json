@@ -4,7 +4,7 @@
     "main": "js/responsive.foundation.js",
     "module": "js/responsive.foundation.mjs",
     "style": "css/responsive.foundation.css",
-    "types": "./types/responsive.foundation.d.ts",
+    "types": "./types/types.d.ts",
     "version": "2.3.0",
     "files": [
         "css/**/*.css",
