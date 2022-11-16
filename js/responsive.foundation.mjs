@@ -4,7 +4,7 @@
 
 import $ from 'jquery';
 import DataTable from 'datatables.net-zf';
-import 'datatables.net-responsive';
+import Responsive from 'datatables.net-responsive';
 
 
 
