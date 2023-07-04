@@ -5,7 +5,7 @@
     "module": "js/responsive.foundation.mjs",
     "style": "css/responsive.foundation.css",
     "types": "./types/responsive.foundation.d.ts",
-    "version": "2.4.1",
+    "version": "2.5.0",
     "files": [
         "css/**/*.css",
         "js/**/*.js",
