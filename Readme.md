@@ -27,7 +27,7 @@ import DataTable from 'datatables.net-zf';
 import 'datatables.net-responsive-zf'
 
 new DataTable('#myTable', {
-    // initalisation options
+    // initialisation options
 });
 ```
 
