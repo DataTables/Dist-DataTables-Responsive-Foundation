@@ -10,8 +10,8 @@
         <license type="expression">MIT</license>
         <tags>Responsive  Foundation  Datatables jQuery table</tags>
         <dependencies>
-            <dependency id="datatables.net-responsive" version="2.3.0"/>
-            <dependency id="datatables.net-zf" version="1.12.1"/>
+            <dependency id="datatables.net-responsive" version="3.0.5"/>
+            <dependency id="datatables.net-zf" version="2.3.2"/>
         </dependencies>
         <contentFiles>
             <files include="**/*" buildAction="Content"/>
@@ -22,6 +22,10 @@
         <file src="js/responsive.foundation.js" target="contentFiles\any\any\wwwroot\js"/>
         <file src="js/responsive.foundation.min.js" target="content\Scripts"/>
         <file src="js/responsive.foundation.min.js" target="contentFiles\any\any\wwwroot\js"/>
+        <file src="js/responsive.foundation.min.mjs" target="content\Scripts"/>
+        <file src="js/responsive.foundation.min.mjs" target="contentFiles\any\any\wwwroot\js"/>
+        <file src="js/responsive.foundation.mjs" target="content\Scripts"/>
+        <file src="js/responsive.foundation.mjs" target="contentFiles\any\any\wwwroot\js"/>
         <file src="css/responsive.foundation.css" target="content\Content"/>
         <file src="css/responsive.foundation.css" target="contentFiles\any\any\wwwroot\css"/>
         <file src="css/responsive.foundation.min.css" target="content\Content"/>
