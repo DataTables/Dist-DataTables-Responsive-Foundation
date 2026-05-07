@@ -5,7 +5,7 @@
     "module": "js/responsive.foundation.mjs",
     "style": "css/responsive.foundation.css",
     "types": "./types/responsive.foundation.d.ts",
-    "version": "3.0.8",
+    "version": "4.0.0-beta.1",
     "files": [
         "css/**/*.css",
         "js/**/*.js",
@@ -16,26 +16,14 @@
         "Responsive",
         "Foundation",
         "Datatables",
-        "jQuery",
         "table",
         "filter",
         "sort"
     ],
     "dependencies": {
-        "datatables.net-responsive": "3.0.8",
-        "datatables.net-zf": "^2",
-        "jquery": ">=1.7"
+        "datatables.net-responsive": "4.0.0-beta.1",
+        "datatables.net-zf": "3.0.0-0"
     },
-    "moduleType": [
-        "globals",
-        "amd",
-        "node"
-    ],
-    "ignore": [
-        "composer.json",
-        "datatables.json",
-        "package.json"
-    ],
     "author": {
         "name": "SpryMedia Ltd",
         "url": "http://datatables.net"
@@ -45,6 +33,6 @@
     "license": "MIT",
     "repository": {
         "type": "git",
-        "url": "https://github.com/DataTables/Dist-DataTables-Responsive-Foundation.git"
+        "url": "git+https://github.com/DataTables/Responsive.git"
     }
 }
