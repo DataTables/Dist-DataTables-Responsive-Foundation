@@ -1,4 +1,4 @@
-/*! Responsive Foundation styling 4.0.1 for DataTables
+/*! Responsive Foundation styling 4.0.2 for DataTables
  * Copyright (c) SpryMedia Ltd - datatables.net/license
  */
 import DataTable from"datatables.net-zf";import Responsive from"datatables.net-responsive";var jq=DataTable.use("jq"),_display=DataTable.Responsive.display,_original=_display.modal;_display.modal=function(r){return function(a,e,l,o){var t,n;return jq.fn.foundation?!1!==(t=l())&&!e&&(n=jq('<div class="reveal-overlay" style="display:block"/>'),jq('<div class="reveal reveal-modal" style="display:block; top: 150px;" data-reveal/>').append('<button class="close-button" aria-label="Close">&#215;</button>').append(r&&r.header?"<h4>"+r.header(a)+"</h4>":null).append(t).appendTo(n),n.appendTo("body"),jq("button.close-button").on("click",function(){jq(".reveal-overlay").remove(),o()}),jq(".reveal-overlay").on("click",function(){jq(".reveal-overlay").remove(),o()}),!0):_original(a,e,l,o)}};export default DataTable;
