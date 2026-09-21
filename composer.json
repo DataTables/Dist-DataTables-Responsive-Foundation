@@ -1,6 +1,6 @@
 {
     "name": "datatables.net/datatables.net-responsive-zf",
-    "description": "Responsive for DataTables with styling for [Foundation](https://get.foundation/)",
+    "description": "Responsive for DataTables with styling for Foundation",
     "support": {
         "forum": "https://datatables.net/forums",
         "source": "https://github.com/DataTables/Dist-DataTables-Responsive-Foundation"
