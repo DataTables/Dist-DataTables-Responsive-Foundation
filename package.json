@@ -37,9 +37,10 @@
     "exports": {
         ".": {
             "types": "./types/responsive.foundation.d.ts",
+            "style": "./css/responsive.foundation.css",
             "import": "./js/responsive.foundation.mjs",
-            "default": "./js/responsive.foundation.mjs",
-            "require": "./js/responsive.foundation.js"
+            "require": "./js/responsive.foundation.js",
+            "default": "./js/responsive.foundation.mjs"
         },
         "./js/*": "./js/*",
         "./css": {
